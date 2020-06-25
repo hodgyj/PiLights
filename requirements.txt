@@ -1,0 +1,1 @@
+adafruit-circuitpython-ws2801==0.10.1
